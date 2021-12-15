@@ -17,9 +17,9 @@ pista.scale = 1.3
 jaqson = createSprite (200,370,25, 25 );
 jaqson.addAnimation ("correndo", jaxon);
 jaqson.scale = 0.08;
-parededireita = createSprite (370, 0, 10, 800);
+parededireita = createSprite (370, 0, 100, 800);
 parededireita.visible = false;
-paredeesquerda = createSprite (36, 0, 10, 800);
+paredeesquerda = createSprite (36, 0, 100, 800);
 paredeesquerda.visible = false;
 }
 
